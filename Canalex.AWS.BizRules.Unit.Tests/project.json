@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "Canalex.AWS.BizRules": "1.0.0-*",
+    "NETStandard.Library": "1.6.0",
+    "NUnit": "3.8.1"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
